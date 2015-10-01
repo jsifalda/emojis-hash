@@ -1,0 +1,28 @@
+{
+  "name": "emojis-hash",
+  "version": "0.1.0",
+  "description": "Just simple js hash of unicode emojis",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsifalda/emojis-hash.git"
+  },
+  "keywords": [
+    "js",
+    "emoji",
+    "emojis",
+    "hash",
+    "emojis hash",
+    "list",
+    "unicode"
+  ],
+  "author": "Jiri Sifalda <sifalda.jiri@gmail.com> (http://jsifalda.name/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jsifalda/emojis-hash/issues"
+  },
+  "homepage": "https://github.com/jsifalda/emojis-hash#readme",
+  "publishConfig": {
+    "registry": "http://registry.npmjs.org/"
+  }
+}
